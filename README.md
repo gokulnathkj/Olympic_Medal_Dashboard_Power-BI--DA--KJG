@@ -18,5 +18,5 @@
 ## 🌍 Map Visualization
   •	A world map shows the geographical distribution of medals. Colored dots represent medal counts across different continents, offering a global view of Olympic success.
 ## 📊 Chart
-  • **Medals Won by Year** – Bar Chart - This chart visualizes the number of medals won in each Olympic year.
+  • **Medals Won by Year** – Bar Chart - This chart visualizes the number of medals won in each Olympic year.\n
   •	🥋 **Sports by Medals** – Bar Chart - This chart displays medal counts across various sports.
